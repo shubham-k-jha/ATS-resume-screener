@@ -6,9 +6,8 @@ A local-first Streamlit application that analyzes a resume against a specific jo
 
 ## 🚀 Live Streamlit App
 
-🔗 **Streamlit App:** [[ADD STREAMLIT DEPLOYED APP LINK HERE](https://ats--resume-screener.streamlit.app/)]
+🔗 **Streamlit App:** [https://ats--resume-screener.streamlit.app/]
 
-> Replace the placeholder only after deploying your own repository. No live URL is invented by this project.
 
 ## Why this project
 
